@@ -1,6 +1,6 @@
 Experiment 1 - Single Precision Floating Point Adder using Recursive Doubling Adder (Verilog)
 
-Experiment 2 - Single Precision Floating Point Multiplier using Wallace Tree multiplier (Verilog)
+Experiment 2 - Single Precision Floating Point Multiplier using Wallace Tree Multiplier (Verilog)
 
 Experiment 3 - Processor Register File (Verilog)
 
